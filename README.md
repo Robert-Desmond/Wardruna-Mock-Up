@@ -1,7 +1,9 @@
 # WardrunaConceptWebsite
 Just a small concept website for the music group "Wardruna"
 
-I don't own any of this besides the icons in the footer. I made them with Affinity Photo. I just followed this tutorial for a beginner project and changed a few things.
+Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+
+I made the icons in the footer with Affinity Photo. I followed this tutorial for a beginner project and changed a few things.
 
 Text Editor used: VS Code
 
