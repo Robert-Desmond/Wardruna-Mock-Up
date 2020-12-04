@@ -1,7 +1,7 @@
 # WardrunaConceptWebsite
 Just a small mock-up website for the music group "Wardruna"
 
-Website Link: https://robert-desmond.github.io/Wardruna-Mock-Up/
+GitHub io: https://robert-desmond.github.io/Wardruna-Mock-Up/
 
 Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
 
